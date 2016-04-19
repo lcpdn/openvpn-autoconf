@@ -1,7 +1,7 @@
 # openvpn-autoconf
 Script de configuration automatique d'un serveur OpenVPN
 
-```bash
+```shell
 cd /tmp/
 wget https://github.com/lcpdn/openvpn-autoconf/archive/master.zip
 unzip master.zip
